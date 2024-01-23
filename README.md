@@ -3,7 +3,7 @@ I'm Marwan Hossam Eldien, a data analyst with a relentless curiosity for data an
 
 Here, you'll find a collection of my projects where I explore diverse datasets, build analytical models, and craft compelling data narratives.  Whether it's wrangling numbers, visualizing trends, or automating workflows, I thrive on uncovering the magic within data. 
 
-Feel free to dive in, leave comments, and join the conversation! We can all learn from each other's data journeys. 
+Feel free to dive in 
 
 Connect with me:
 
